@@ -1,0 +1,6 @@
+{
+  "name": "Tomášův IT Mentor",
+  "description": "Osobní mentor, kariérní poradce a motivátor pro Tomáše na jeho cestě do světa IT v Moravskoslezském kraji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
